@@ -1,0 +1,35 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #666; }
+
+.form-row {
+  margin-top: 200px;
+  margin-left: 250px;
+  text-align: center; }
+  .form-row .save-btn {
+    width: 100%; }
+
+.search-row {
+  margin-top: 120px; }
+  .search-row .search-text {
+    text-align: center; }
+
+.orders-row {
+  margin-top: 50px;
+  text-align: center; }
+  .orders-row th {
+    text-align: center;
+    font-weight: 700; }
+  .orders-row .table tbody > tr > td {
+    vertical-align: middle; }
+  .orders-row .edit-form {
+    border-color: transparent;
+    box-shadow: none;
+    text-align: center; }
+  .orders-row textarea {
+    resize: none; }
+  .orders-row .details-data {
+    margin-bottom: 50px; }
+
+/*# sourceMappingURL=styles.css.map */

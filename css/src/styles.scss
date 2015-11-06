@@ -1,0 +1,52 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #666;
+}
+
+.form-row {
+  margin-top: 200px;
+  margin-left: 250px;
+  text-align: center;
+
+  .save-btn {
+    width: 100%;
+  }
+}
+
+.search-row {
+ margin-top: 120px;
+
+ .search-text {
+   text-align: center; 
+ }
+}
+
+.orders-row {
+  margin-top: 50px;
+  text-align: center;
+
+  th {
+    text-align: center;
+    font-weight: 700;
+  }
+
+  .table tbody>tr>td {
+    vertical-align: middle;
+  }
+
+  .edit-form {
+    border-color: transparent;
+    box-shadow: none;
+    text-align: center;
+  }
+
+  textarea {
+    resize: none;
+  }
+  
+  .details-data {
+    margin-bottom: 50px;
+  }
+
+}
